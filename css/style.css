@@ -443,7 +443,7 @@ nav ul li a.active::after {
     line-height: 1.6;
 }
 
-.swot-item.strength { border-left: 6px solid #4CAF50; }
+.swot-item.strength { border-left: 6px solid #272223; }
 .swot-item.weakness { border-left: 6px solid #FFC107; } /* Yellow for weaknesses */
 .swot-item.opportunity { border-left: 6px solid #2196F3; } /* Blue for opportunities */
 .swot-item.threat { border-left: 6px solid #F44336; } /* Red for threats */
